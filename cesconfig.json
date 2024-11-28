@@ -19,7 +19,7 @@
     "noInstall": false,
     "overwrite": false,
     "importAlias": true,
-    "packageManager": "npm",
+    "packageManager": "yarn",
     "eas": true
   },
   "packageManager": {
